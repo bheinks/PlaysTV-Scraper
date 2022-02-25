@@ -19,8 +19,7 @@ If found, videos will be downloaded in 720p (the only resolution available for m
 
 2. Install required dependencies
 
-   Poetry: `poetry install`
-
+   Poetry: `poetry install`\
    Pip: `pip install requirements.txt`
 
 ## Usage
