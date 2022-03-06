@@ -2,7 +2,7 @@
 
 Scrape the Wayback Machine for archived PlaysTV content.
 
-If found, videos will be downloaded in 720p (the only resolution available for most content) to a directory specified (current directory if unspecified) and organized into folders by game name.
+If found, videos will be downloaded in 720p (the only resolution available for most content) to a directory specified (current directory if unspecified) and organized into folders by game title.
 
 ## Requirements
 
